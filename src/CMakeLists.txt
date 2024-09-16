@@ -1,0 +1,11 @@
+﻿target_sources (oop2_ex01 PRIVATE "main.cpp"
+                                  "Calculator.cpp"
+                                  "Operation.cpp"
+                                  "Id.cpp"
+                                  "SwapCase.cpp"
+                                  "Reverse.cpp"
+                                  "Substring.cpp"
+                                  "Multiply.cpp"
+                                  "Add.cpp"
+                                  "Composite.cpp"
+)
